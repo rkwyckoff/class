@@ -223,7 +223,7 @@ console.assert(safe.unlock(rightKey) === sensitive);
 // // --------------------------------------------------------------- //
 // Submit Assignment
 //
-// * Assignment URL:
+//  https://github.com/rkwyckoff/class:
 //
-// Paste URL here
+// tiy-kurt-class.surge.sh
 // A
